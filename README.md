@@ -1,14 +1,7 @@
 # article_styling_selectors
 
 CSS Article Styling: Selectors
-Setup
-These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below. It doesn't matter what directory you are currently in.
 
-mkdir -p ~/workspace/exercises/the-static-web/css-selectors && cd $_
-touch index.html
-touch selectors.css
-Requirements
-Paste the code below into your HTML document.
 
 The header element should have a 1px border. You choose the color.
 Convert the ul in the navigation element into a series of horizontal links with # as the href value, without bullets, and have some space between them horizontally.
